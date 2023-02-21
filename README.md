@@ -11,11 +11,7 @@
 
 - 💬 Ask me about **Python, Data Structures, ML, Swift**
 
-- 📫 How to reach me **animeshsri17@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 📫 How to reach me **animeshsri17@gmail.com**\
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
